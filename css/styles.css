@@ -11,6 +11,11 @@ body {
     text-transform: uppercase;
 }
 
+img {
+    max-width: 100%;
+    display: block;
+}
+
 .container {
     /* Max-width will allow the container to be fluid on smaller viewports and then become fixed when it becomes 960px wide */
     max-width: 60rem;
